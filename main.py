@@ -1,8 +1,18 @@
-#Print first movie
-print("")
+#define function
+def topFiveMovies():
+        #print first movie
+    print("Blazing sadles")
 
-#Print second movie
-print("")
+      #print second movie
+    print("Kill bill")
 
-#Print third movie
-print("")
+      #print third movie
+    print("Sound and fury")
+
+      #print fourth movie
+    print("Once upon a time in hollywood")
+
+      #print fifth movie
+    print("Pacific rim")
+
+topFiveMovies()
